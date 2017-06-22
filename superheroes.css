@@ -1,0 +1,38 @@
+/*bio headers*/
+
+h5 {
+    color: #ec4e27; 
+}
+
+/*Superhero name */
+
+ h2 {
+    color: #760d45;
+}
+
+h4 {
+    color: #11b08c; 
+}
+
+img{
+    border: #4e4f9a;
+}
+
+/*paragraph font*/
+
+p {
+    color: #303133;
+}
+
+* {
+    font-family: inherit; 
+}
+
+.bio-info {
+    border: 2px solid #11b08c; 
+    padding-left: 10px; 
+    display: inline-block; 
+    width: 70%; 
+}
+
+
